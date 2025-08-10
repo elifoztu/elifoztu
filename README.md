@@ -1,6 +1,6 @@
 # Hello! I'm Elif Ozturk 👋
 
-**Computer Science @ University of Iowa** • **Break Through Tech AI Fellow** • **Undergraduate Research Assistant** • **Software Engineering Intern at Backpack Games**
+**Computer Science and Engineering @ University of Iowa** • **Break Through Tech AI Fellow** • **Undergraduate Research Assistant** • **Software Engineering Intern at Backpack Games**
 
 I build scalable machine learning systems and AI-driven solutions that create real impact. Currently advancing ML research, optimizing production systems, and developing intelligent applications that solve complex challenges.
 
